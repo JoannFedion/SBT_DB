@@ -1,0 +1,1 @@
+DELETE FROM my_index WHERE id = 1;
